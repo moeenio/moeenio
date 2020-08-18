@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 This is my GitHub profile, thanks for stopping by! Here's what I'm working on :
 
-- [Zytixon](https://github.com/zytixon), the best Discord ripoff;
 - [MDR BOT](https://github.com/mdr-bot/mdr-bot), a *fun* french Discord bot;
 - [CatSource](https://github.com/csourcesc), a collaboratively written blog about Scratch;
+- Another thing, more details soon :eyes:
 
 Chat with me on Matrix, `@locness3:matrix.org`, or on Discord `Locness#0031`.
 
