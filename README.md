@@ -24,3 +24,5 @@ This is my GitHub profile, thanks for stopping by! Here's what I'm working on :
 Chat with me on Matrix, `@locness3:matrix.org`, or on Discord `Locness#0031`.
 
 See more on [my website](https://locness.hopto.org).
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=locness3)](https://github.com/anuraghazra/github-readme-stats)
