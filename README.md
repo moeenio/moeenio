@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 This is my GitHub profile, thanks for stopping by! Here's what I'm working on :
 
-- [MDR BOT](https://github.com/mdr-bot/mdr-bot), a *fun* french Discord bot;
+- [stusib](https://codeberg.org/stusib), a PHP+MySQL blogging thing
+- [CNRTLReader](https://github.com/locness3/cnrtl-reader), a simple and clean app for reading French dictionaries from the CNRTL’s website.
 - [CatSource](https://github.com/csourcesc), a collaboratively written blog about Scratch;
-- Another thing, more details soon :eyes:
 
 Chat with me on Matrix, `@locness3:matrix.org`, or on Discord `Locness#0031`.
 
-See more on [my website](https://locness.hopto.org).
+See more on [my website](https://locness.duckdns.org).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=locness3)](https://github.com/anuraghazra/github-readme-stats)
+[![Locness's github stats](https://github-readme-stats.vercel.app/api?username=locness3)](https://github.com/anuraghazra/github-readme-stats)
