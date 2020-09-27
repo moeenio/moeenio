@@ -25,4 +25,6 @@ Chat with me on Matrix, `@locness3:matrix.org`, or on Discord `Locness#0031`.
 
 See more on [my website](https://locness.duckdns.org).
 
-[![Locness's github stats](https://github-readme-stats.vercel.app/api?username=locness3)](https://github.com/anuraghazra/github-readme-stats)
+[![Locness's github stats](https://github-readme-stats.vercel.app/api?username=locness3&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=locness3&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
