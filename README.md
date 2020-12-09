@@ -30,3 +30,5 @@ See more on [my website](https://locness.duckdns.org).
 [![Locness's github stats](https://github-readme-stats.vercel.app/api?username=locness3&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=locness3&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+Now I'm thinking, that I might wanna use [turndown](https://github.com/domchristie/turndown) to "mirror" my website here.
