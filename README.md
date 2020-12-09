@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 This is my GitHub profile, thanks for stopping by! Here's what I'm working on :
 
-- [stusib](https://codeberg.org/stusib), a PHP+MySQL blogging thing
+- NotionWiki, a template for DokuWiki inspired by Notion.
 - [CNRTLReader](https://github.com/locness3/cnrtl-reader), a simple and clean app for reading French dictionaries from the CNRTL’s website.
 - [CatSource](https://github.com/csourcesc), a collaboratively written blog about Scratch;
 
-Chat with me on Matrix, `@locness3:matrix.org`, or on Discord `Locness#0031`.
+Note that I host my new repos on [Codeberg](https://codeberg.org/locness3) from now on.
+
+Contact me via email at locness3 at e dot email.
 
 See more on [my website](https://locness.duckdns.org).
 
