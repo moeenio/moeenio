@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Have a look at [my website](https://locness.duckdns.org) for anything about me.
+Have a look at [my website](https://locness.duckdns.org) for anything about me. It's back up!
 
-Yes, it is down, blame my ISP. For now, you might look at these nice stats below.
 
 [![Locness's github stats](https://github-readme-stats.vercel.app/api?username=locness3&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
