@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
-Have a look at [my website](https://locness.duckdns.org) for anything about me. It's back up!
+I made myself [a new homepage](https://locness.duckdns.org), please check it out.
+There you'll find links to things I made, contributed or plan on contributing to, as well
+as ways to contact me.
 
-
-[![Locness's github stats](https://github-readme-stats.vercel.app/api?username=locness3&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=locness3&layout=compact&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+Please note that I am now using [Codeberg](https://codeberg.org) for my personal projects
+([here's my profile](https://codeberg.org/locness3)),
+and I invite you to migrate away from GitHub as well :D
